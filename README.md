@@ -5,6 +5,7 @@
 - 🛡️ Formação Técnica em Programação Delphi
 - 🖥️  Cursando Gestão da Tecnologia da Informação
 - 🧑‍💻 Interesse em programação Mobile, UI/UX e iniciando programação Web
+- 📚 Leituras
 - 🎸 Bass
 - 📻 Rock, Heavy Metal
 - 🎮 Xbox
@@ -22,6 +23,7 @@
 <div> 
   <a href="https://instagram.com/danielpretto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danielgoncalvesfonseca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://open.spotify.com/playlist/7pcbnhiMU656qVFZaSrnYu?si=55b490a726c34c23" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> <br><br>
+  <a href="https://open.spotify.com/playlist/7pcbnhiMU656qVFZaSrnYu?si=55b490a726c34c23" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  
 ![Snake animation](https://github.com/danielpretto/danielpretto/blob/output/github-contribution-grid-snake.svg)
 </div>
