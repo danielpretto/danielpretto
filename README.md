@@ -28,4 +28,4 @@
   ##
 <div>
    ![Snake animation](https://github.com/danielpretto/danielpretto/blob/output/github-contribution-grid-snake.svg)
-  </div>
+</div>
