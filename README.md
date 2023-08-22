@@ -2,7 +2,7 @@
 ##
 - 🏥 Atualmente, trabalho como Analista de Sistemas em um Hospital de Grande Porte, responsável pela área de Apoio Assistencial
 - 🛡️ Formação Técnica em Programação Delphi
-- 🖥️  Cursando Gestão da Tecnologia da Informação
+- 🖥️ Formação Gestão da Tecnologia da Informação
 - 🧑‍💻 Interesse em programação Mobile, UI/UX e iniciando programação Web e PowerBI
 - 📚 Leituras: Historia do Brasil, Literatura Nacional e Internacional, Programação, Tecnologia
 - 🎸 Bass
