@@ -4,7 +4,7 @@
 - 🛡️ Formação Técnica em Programação Delphi
 - 🖥️ Formação Gestão da Tecnologia da Informação
 - 🧑‍💻 Interesse em programação Mobile, UI/UX e iniciando programação Web e PowerBI
-- 📚 Leituras: Historia do Brasil, Literatura Nacional e Internacional, Programação, Tecnologia
+- 📚 Interesse em leituras voltadas para Historia do Brasil, Literatura Nacional, Literatura Internacional, Programação, Tecnologia e Música.
 - 🎸 Bass
 - 📻 Rock, Heavy Metal
 - 🎮 Xbox
