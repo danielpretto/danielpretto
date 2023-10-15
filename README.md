@@ -3,14 +3,14 @@
 - 🏥 Atualmente, trabalho como Analista de Sistemas em um Hospital de Grande Porte, responsável pela área de Apoio Assistencial
 - 🛡️ Formação Técnica em Programação Delphi
 - 🖥️ Formação Gestão da Tecnologia da Informação
-- 🧑‍💻 Interesse em programação Mobile, UI/UX e iniciando programação Web e PowerBI
-- 📚 Interesse em leituras voltadas para Historia do Brasil, Literatura Nacional, Literatura Internacional, Programação, Tecnologia e Música.
+- 🧑‍💻 Interesse em programação Mobile, UI/UX, PowerBI e iniciando programação Web.
+- 📚 Interesse em leituras voltadas para História do Brasil, Literatura Nacional, Literatura Internacional, Programação, Tecnologia e Música.
 - 🎸 Bass
 - 📻 Rock, Heavy Metal
 - 🎮 Xbox
 - 🚴 Bike
     
-##
+## Git Hub Stats
 
 <div align="center">
 <a href="https://beacons.ai/pretto"> 
@@ -19,7 +19,7 @@
 
 </div>
   
-##
+## Conecte-se comigo!
 
 <div align="center" > 
   <a href="https://instagram.com/danielpretto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
